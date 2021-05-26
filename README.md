@@ -1,0 +1,1 @@
+First try at setting up a fullstack app with Express/NodeJS backend with React frontend, with MongoDB. 
